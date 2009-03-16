@@ -1,0 +1,16 @@
+Macros:
+Check (if true)
+CheckPtr
+DEBUG
+INIT/DEINIT
+maths
+typedef
+
+baseactor:
+	// inventory
+	// health + shield
+	// damage
+
+
+
+message handler in game

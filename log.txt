@@ -1,0 +1,185 @@
+ main.cpp:29 in main: Starting...
+ game.cpp:19 in Init: Start
+ io.cpp:16 in Init: Start
+ io.cpp:18 in Init: Stop
+ scene.cpp:28 in Init: Start
+ scene.cpp:46 in Init: Stop
+ ui.cpp:17 in Init: Start
+ ui.cpp:54 in Init: Stop
+ game.cpp:49 in Init: Stop
+ game.cpp:53 in Update: Start
+ game.cpp:57 in Update: Updating GamePart: 0
+ io.cpp:72 in UpdateMsgs: Start
+ io.cpp:74 in UpdateMsgs: Me: 0
+ io.cpp:78 in UpdateMsgs: (*it)->GetReceiver(): 0
+ io.cpp:79 in UpdateMsgs: (*it)->GetType(): 9
+ io.cpp:86 in UpdateMsgs: playerId: 1
+ io.cpp:78 in UpdateMsgs: (*it)->GetReceiver(): 2
+ io.cpp:79 in UpdateMsgs: (*it)->GetType(): 9
+ io.cpp:93 in UpdateMsgs: Stop
+ io.cpp:28 in Update: Start
+ io.cpp:68 in Update: Stop
+ game.cpp:57 in Update: Updating GamePart: 1
+ scene.cpp:62 in UpdateMsgs: Start
+ scene.cpp:64 in UpdateMsgs: Stop
+ scene.cpp:56 in Update: Start
+ scene.cpp:58 in Update: Stop
+ game.cpp:57 in Update: Updating GamePart: 2
+ ui.cpp:82 in UpdateMsgs: Start
+ ui.cpp:84 in UpdateMsgs: Me: 1
+ ui.cpp:100 in UpdateMsgs: playerId: 1
+ ui.cpp:100 in UpdateMsgs: playerId: 1
+ ui.cpp:106 in UpdateMsgs: Stop
+ ui.cpp:65 in Update: Start
+ ui.cpp:78 in Update: Stop
+ game.cpp:69 in UpdateMsgs: Start
+ game.cpp:88 in UpdateMsgs: Stop
+ game.cpp:65 in Update: Stop
+ game.cpp:93 in Deinit: Start
+ io.cpp:22 in Deinit: Start
+ io.cpp:24 in Deinit: Stop
+ scene.cpp:50 in Deinit: Start
+ scene.cpp:52 in Deinit: Stop
+ ui.cpp:58 in Deinit: Start
+ ui.cpp:61 in Deinit: Stop
+ game.cpp:99 in Deinit: Stop
+ main.cpp:29 in main: Starting...
+ game.cpp:19 in Init: Start
+ io.cpp:16 in Init: Start
+ io.cpp:18 in Init: Stop
+ scene.cpp:28 in Init: Start
+ scene.cpp:46 in Init: Stop
+ ui.cpp:17 in Init: Start
+ ui.cpp:54 in Init: Stop
+ game.cpp:49 in Init: Stop
+ game.cpp:53 in Update: Start
+ game.cpp:57 in Update: Updating GamePart: 0
+ io.cpp:72 in UpdateMsgs: Start
+ io.cpp:74 in UpdateMsgs: Me: 0
+ io.cpp:78 in UpdateMsgs: (*it)->GetReceiver(): 0
+ io.cpp:79 in UpdateMsgs: (*it)->GetType(): 9
+ io.cpp:86 in UpdateMsgs: playerId: 1
+ io.cpp:78 in UpdateMsgs: (*it)->GetReceiver(): 2
+ io.cpp:79 in UpdateMsgs: (*it)->GetType(): 9
+ io.cpp:93 in UpdateMsgs: Stop
+ io.cpp:28 in Update: Start
+ io.cpp:68 in Update: Stop
+ game.cpp:57 in Update: Updating GamePart: 1
+ scene.cpp:62 in UpdateMsgs: Start
+ scene.cpp:64 in UpdateMsgs: Stop
+ scene.cpp:56 in Update: Start
+ scene.cpp:58 in Update: Stop
+ game.cpp:57 in Update: Updating GamePart: 2
+ ui.cpp:82 in UpdateMsgs: Start
+ ui.cpp:84 in UpdateMsgs: Me: 1
+ ui.cpp:100 in UpdateMsgs: playerId: 1
+ ui.cpp:100 in UpdateMsgs: playerId: 1
+ ui.cpp:106 in UpdateMsgs: Stop
+ ui.cpp:65 in Update: Start
+ ui.cpp:78 in Update: Stop
+ game.cpp:69 in UpdateMsgs: Start
+ game.cpp:88 in UpdateMsgs: Stop
+ game.cpp:57 in Update: Updating GamePart: 0
+ io.cpp:72 in UpdateMsgs: Start
+ io.cpp:74 in UpdateMsgs: Me: 0
+ io.cpp:93 in UpdateMsgs: Stop
+ io.cpp:28 in Update: Start
+ io.cpp:68 in Update: Stop
+ game.cpp:57 in Update: Updating GamePart: 1
+ scene.cpp:62 in UpdateMsgs: Start
+ scene.cpp:64 in UpdateMsgs: Stop
+ scene.cpp:56 in Update: Start
+ scene.cpp:58 in Update: Stop
+ game.cpp:57 in Update: Updating GamePart: 2
+ ui.cpp:82 in UpdateMsgs: Start
+ ui.cpp:84 in UpdateMsgs: Me: 1
+ ui.cpp:106 in UpdateMsgs: Stop
+ ui.cpp:65 in Update: Start
+ ui.cpp:78 in Update: Stop
+ game.cpp:69 in UpdateMsgs: Start
+ game.cpp:88 in UpdateMsgs: Stop
+ game.cpp:57 in Update: Updating GamePart: 0
+ io.cpp:72 in UpdateMsgs: Start
+ io.cpp:74 in UpdateMsgs: Me: 0
+ io.cpp:93 in UpdateMsgs: Stop
+ io.cpp:28 in Update: Start
+ io.cpp:68 in Update: Stop
+ game.cpp:57 in Update: Updating GamePart: 1
+ scene.cpp:62 in UpdateMsgs: Start
+ scene.cpp:64 in UpdateMsgs: Stop
+ scene.cpp:56 in Update: Start
+ scene.cpp:58 in Update: Stop
+ game.cpp:57 in Update: Updating GamePart: 2
+ ui.cpp:82 in UpdateMsgs: Start
+ ui.cpp:84 in UpdateMsgs: Me: 1
+ ui.cpp:106 in UpdateMsgs: Stop
+ ui.cpp:65 in Update: Start
+ ui.cpp:78 in Update: Stop
+ game.cpp:69 in UpdateMsgs: Start
+ game.cpp:88 in UpdateMsgs: Stop
+ game.cpp:57 in Update: Updating GamePart: 0
+ io.cpp:72 in UpdateMsgs: Start
+ io.cpp:74 in UpdateMsgs: Me: 0
+ io.cpp:93 in UpdateMsgs: Stop
+ io.cpp:28 in Update: Start
+ io.cpp:68 in Update: Stop
+ game.cpp:57 in Update: Updating GamePart: 1
+ scene.cpp:62 in UpdateMsgs: Start
+ scene.cpp:64 in UpdateMsgs: Stop
+ scene.cpp:56 in Update: Start
+ scene.cpp:58 in Update: Stop
+ game.cpp:57 in Update: Updating GamePart: 2
+ ui.cpp:82 in UpdateMsgs: Start
+ ui.cpp:84 in UpdateMsgs: Me: 1
+ ui.cpp:106 in UpdateMsgs: Stop
+ ui.cpp:65 in Update: Start
+ ui.cpp:78 in Update: Stop
+ game.cpp:69 in UpdateMsgs: Start
+ game.cpp:88 in UpdateMsgs: Stop
+ game.cpp:57 in Update: Updating GamePart: 0
+ io.cpp:72 in UpdateMsgs: Start
+ io.cpp:74 in UpdateMsgs: Me: 0
+ io.cpp:93 in UpdateMsgs: Stop
+ io.cpp:28 in Update: Start
+ io.cpp:68 in Update: Stop
+ game.cpp:57 in Update: Updating GamePart: 1
+ scene.cpp:62 in UpdateMsgs: Start
+ scene.cpp:64 in UpdateMsgs: Stop
+ scene.cpp:56 in Update: Start
+ scene.cpp:58 in Update: Stop
+ game.cpp:57 in Update: Updating GamePart: 2
+ ui.cpp:82 in UpdateMsgs: Start
+ ui.cpp:84 in UpdateMsgs: Me: 1
+ ui.cpp:106 in UpdateMsgs: Stop
+ ui.cpp:65 in Update: Start
+ ui.cpp:78 in Update: Stop
+ game.cpp:69 in UpdateMsgs: Start
+ game.cpp:88 in UpdateMsgs: Stop
+ game.cpp:57 in Update: Updating GamePart: 0
+ io.cpp:72 in UpdateMsgs: Start
+ io.cpp:74 in UpdateMsgs: Me: 0
+ io.cpp:93 in UpdateMsgs: Stop
+ io.cpp:28 in Update: Start
+ io.cpp:68 in Update: Stop
+ game.cpp:57 in Update: Updating GamePart: 1
+ scene.cpp:62 in UpdateMsgs: Start
+ scene.cpp:64 in UpdateMsgs: Stop
+ scene.cpp:56 in Update: Start
+ scene.cpp:58 in Update: Stop
+ game.cpp:57 in Update: Updating GamePart: 2
+ ui.cpp:82 in UpdateMsgs: Start
+ ui.cpp:84 in UpdateMsgs: Me: 1
+ ui.cpp:106 in UpdateMsgs: Stop
+ ui.cpp:65 in Update: Start
+ ui.cpp:78 in Update: Stop
+ game.cpp:69 in UpdateMsgs: Start
+ game.cpp:88 in UpdateMsgs: Stop
+ game.cpp:65 in Update: Stop
+ game.cpp:93 in Deinit: Start
+ io.cpp:22 in Deinit: Start
+ io.cpp:24 in Deinit: Stop
+ scene.cpp:50 in Deinit: Start
+ scene.cpp:52 in Deinit: Stop
+ ui.cpp:58 in Deinit: Start
+ ui.cpp:61 in Deinit: Stop
+ game.cpp:99 in Deinit: Stop
